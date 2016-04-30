@@ -27,3 +27,12 @@ git reset <file>
 
 Before commit make sure you set a default text editor:
 git config --global core.editor "C:/Program\ Files/Just\ Great\ Software/EditPad\ Lite\ 7/EditPadLite7.exe"
+
+Changes between current working directory and staging area:
+git diff
+
+Changes between staging area and most recent commit:
+git diff --staged
+
+Reset staging area and working directory:
+git reset --hard
