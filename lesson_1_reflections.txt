@@ -1,0 +1,27 @@
+You can use
+diff -u game_old.js game_new.js
+to view differences between two files.
+The lines from the old file which differ from the lines in the new file are marked with -
+The new lines in the new file are marked with +
+You also see 3 lines of context surrounding the changed lines which have not been changed.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log is used to show the different revisions that were committed. Each revision has an id.
+git diff is used with two different revision ids to see the differences.
+Syntax coloring is turned on with
+git config --global color.ui auto
+
+
+How might using version control make you more confident to make changes that could break something?
+
+I can always go back to a previous version of the code which was not broken.
+I checkout a previous revision with
+git checkout df035382c41b4d0cda86a1aa30b53f15bef05b53
+
+
+Global settings:
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
+
