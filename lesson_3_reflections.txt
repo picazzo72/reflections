@@ -1,0 +1,15 @@
+Caching your GitHub password in Git:
+git config --global credential.helper wincred
+
+Create remote repository on GitHub web site
+Add remote to git (use HTTPS):
+git remote add origin https://github.com/picazzo72/reflections.git
+
+Shows current remotes:
+git remote
+
+Shows current remotes with URLs for fetch and push (often similar):
+git remote -v
+
+Push changes to GitHub from master branch:
+git push -u origin master
