@@ -13,3 +13,6 @@ git remote -v
 
 Push changes to GitHub from master branch:
 git push -u origin master
+
+Pull changes from GitHub from master branch:
+git pull origin master
