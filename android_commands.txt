@@ -1,0 +1,8 @@
+Weather service:
+2c71ced2f99642427045a954286ce9c6
+
+SDK path:
+/c/Users/dandersen/AppData/Local/Android/Sdk
+
+Android Developer Studio:
+Ctrl+O : Show methods that can be overridden/implemented in a class.
