@@ -1,0 +1,13 @@
+Content Resolver: Is used to give us the correct content provider for our request
+
+URI: Uniform Resource Identifier
+
+Example:
+content://user_dictionary/words
+
+content://         -   Standard way Content URIs start
+user_dictionary    -   Content Authority
+words              -   We want to get a list of words
+
+http://developer.android.com/reference/android/provider/UserDictionary.Words.html
+http://developer.android.com/reference/android/provider/CalendarContract.html
