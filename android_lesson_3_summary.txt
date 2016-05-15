@@ -1,0 +1,19 @@
+Toasts:
+Example code:
+	int duration = Toast.LENGTH_SHORT;
+	Toast toast = Toast.makeText(getActivity(), forecast, duration);
+	toast.show();
+http://developer.android.com/guide/topics/ui/notifiers/toasts.html
+
+
+Activities/intents:
+http://developer.android.com/training/basics/firstapp/starting-activity.html
+http://developer.android.com/guide/components/intents-filters.html
+https://developer.android.com/guide/components/intents-common.html
+Adding an easy share action: http://developer.android.com/training/sharing/shareaction.html
+
+
+Settings:
+http://developer.android.com/guide/topics/ui/settings.html
+Preferences with fragment:
+http://gmariotti.blogspot.dk/2013/01/preferenceactivity-preferencefragment.html
