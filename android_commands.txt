@@ -6,3 +6,5 @@ SDK path:
 
 Android Developer Studio:
 Ctrl+O : Show methods that can be overridden/implemented in a class.
+Ctrl+Q : Show help for cursor
+Ctrl+B : Find declaration
