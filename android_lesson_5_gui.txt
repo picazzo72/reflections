@@ -1,0 +1,32 @@
+View Groups:
+
+FrameLayout
+- one child
+- child is placed in the top left corner
+
+LinearLayout
+- list of items either horisontal og vertical
+
+RelativeLayout
+- items can be placed in different places in the layout
+- eg in each corner
+
+GridLayout
+- items are placed in a grid
+
+A View Group is a View so they can be nested
+
+Localization:
+https://developer.android.com/distribute/tools/localization-checklist.html
+
+Display sizes:
+https://developer.android.com/design/style/devices-displays.html
+
+Style - typography:
+https://www.google.com/design/spec/style/typography.html
+
+sp: Scaled Pixels
+dp/dip: Device Independent Pixels
+
+Accessibility Developer Checklist:
+https://developer.android.com/guide/topics/ui/accessibility/checklist.html
