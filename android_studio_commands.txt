@@ -1,0 +1,4 @@
+Ctrl + Alt + T:  Code surround with (try - catch)
+Ctrl + O : Show methods that can be overridden/implemented in a class.
+Ctrl + Q : Show help for cursor
+Ctrl + B : Find declaration
